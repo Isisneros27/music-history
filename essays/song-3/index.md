@@ -61,23 +61,26 @@ Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. M
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
 
 
-## Duis vehicula erat et diam
+## Where It Was Played and Who Listened
 {% include figure.html class="right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
 
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
+While the most iconic recording was made in a Chicago studio by Armstrong’s Hot Five, live performances likely occurred in African-American entertainment districts on the South Side of Chicago and in northern cities that had large Black populations due to the Great Migration (Anderson 2013). 
+
+Audiences at these venues were predominantly African-American, though jazz was also gaining popularity among white listeners in urban nightlife settings.
+The circulation of 78 rpm records allowed the music to reach audiences beyond the immediate live venues, making it accessible to listeners who could not attend clubs or dance halls (Harker 2011).
 
 
-## Praesent libero mi
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus. Aliquam in sapien mauris. Aliquam erat volutpat. 
+## Lyrics, Musical Voice, and Cultural Expression
+Although Armstrong’s 1928 recording is largely instrumental, Oliver’s original composition had lyrics added by Clarence Williams, evoking the “West End” resort area of Lake Pontchartrain in New Orleans (Johns Hopkins Sheridan Libraries 1928).
 
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
+These lyrics and Armstrong’s trumpet cadenza convey longing, personal expression, and a connection to the African-American cultural memory of New Orleans. The piece speaks to African-American musicians asserting their artistry and to listeners seeking cultural affirmation, artistic innovation, and emotional resonance.
 
 
+## The Social, Political, and Economic Climate
+The late 1920s were part of the “Jazz Age,” marked by booming industrial growth, urbanization, and consumer culture—but also by persistent racial segregation and economic inequality for African-Americans (Jazz, Blues, and Ragtime in America 2022).
 
-## Curabitur sapien risus
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
+The Great Migration brought many Black southerners to northern cities like Chicago, creating concentrated communities where jazz clubs and music venues could thrive. West End Blues emerges against this backdrop of opportunity and constraint, reflecting both the commercial potential of jazz and the social challenges faced by Black musicians and audiences (Harker 2011).
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
 
 > As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith.
 
