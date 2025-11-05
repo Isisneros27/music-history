@@ -50,7 +50,6 @@ Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibul
 
 {% include aside.html class="right" 
 width="60%" 
-height
 text="
 -[King Oliver & His Dixie Syncopaters](https://www.youtube.com/watch?v=9lllieo9w-s&t=23s)
 
