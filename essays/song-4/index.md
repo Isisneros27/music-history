@@ -26,7 +26,7 @@ Mamie Smith’s “Crazy Blues” was a song that changed African-American music
 class="right" 
 width="48%" 
 caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" 
-image-path="images/mvh-history-stays.jpg" 
+image-path="Talking-Machine-Jan-1921.png" 
 %}
 
 During the 1920s, many people were immigrating north, and a lot of jobs were opening up in the north due to the rapid industrial growth. The great northern migration. The South is still recovering after the Civil War, even now, and more and more people are moving north. Many industries are starting to boom, such as the meat factories in Chicago, steel plants in places like Detroit and Pittsburgh. As well, prohibition had just started and would last another 13 years. This was the result of a larger modesty movement that gained popularity across America in response to changing environments, like the massive number of immigrants coming to America. 
