@@ -17,11 +17,9 @@ tags:
     - campus
 ---
 
-# A Page for Group 4's Song
-This template shows a basic essay with a few images, captions, and section headings. The design difficulty of this template is 'Seedling' level.
+# Introduction
 
-Most of the text is just dummy text to keep the focus on the page elements.
-
+Mamie Smith’s “Crazy Blues” was a song that changed African-American music forever. It was the first blues song recorded by an African American woman in the United States. This was an important song because it ushered in race records and allowed music companies to see that there was profit to be made from black music like blues and jazz. This song was popular and launched Smith into stardom and a country-wide tour. “According to the shipping director at Okeh, 75,000 copies of “Crazy Blues” were distributed to Harlem record shops alone within the first 4 weeks after release.” (Gussow, 2) 
 
 ## Historical Context (1920s)
 {% include figure.html 
@@ -38,8 +36,8 @@ During the 1920s, many people were immigrating north, and a lot of jobs were ope
 Crazy Blues was one of the first songs ever recorded and put on radio stations, and the first song by a black woman to be recorded. This song became insanely popular due to the rise of radio across America. There was a huge demand for this song to be played/bought by the American public, especially by the African American community. With the rise of radio and mass communication, songs could travel across the country; they weren’t limited to the places and people that made them. 
 
 
-## Cras magna nunc
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis. Aliquam tempor dolor magna, in dictum ipsum suscipit non. Cras magna nunc, efficitur id laoreet ac, laoreet quis turpis. 
+## Technology’s Role in the Popularity of “Crazy Blues”
+Crazy Blues was one of the first songs ever recorded and put on radio stations, and the first song by a black woman to be recorded. This song became insanely popular due to the rise of radio across America. There was a huge demand for this song to be played/bought by the American public, especially by the African American community. With the rise of radio and mass communication, songs could travel across the country; they weren’t limited to the places and people that made them. 
 
 {% include aside.html class="right" text="
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
