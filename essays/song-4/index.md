@@ -34,8 +34,8 @@ image-path="images/mvh-history-stays.jpg"
 During the 1920s, many people were immigrating north, and a lot of jobs were opening up in the north due to the rapid industrial growth. The great northern migration. The South is still recovering after the Civil War, even now, and more and more people are moving north. Many industries are starting to boom, such as the meat factories in Chicago, steel plants in places like Detroit and Pittsburgh. As well, prohibition had just started and would last another 13 years. This was the result of a larger modesty movement that gained popularity across America in response to changing environments, like the massive number of immigrants coming to America. 
 
 
-## Donec odio elit
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
+## What role did technology play in this song's popularity? 
+Crazy Blues was one of the first songs ever recorded and put on radio stations, and the first song by a black woman to be recorded. This song became insanely popular due to the rise of radio across America. There was a huge demand for this song to be played/bought by the American public, especially by the African American community. With the rise of radio and mass communication, songs could travel across the country; they weren’t limited to the places and people that made them. 
 
 
 ## Cras magna nunc
