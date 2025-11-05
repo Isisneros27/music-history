@@ -45,32 +45,37 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
 
-### Duis vehicula erat et diam
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
+### What Makes Blues? What are Blues?
 
+-What's the time signature?
+Almost all blues are in 4/4. Some blues is played in 6/8 but can still be 12-bar blues. Most blues songs will be 12-bar and played in 4/4 time, but you can also find 8-bar blues in 4/4, 16-bar blues in 6/8, and more.
+-What defines the blues?
+The blues is tough to define as it takes on many forms, but at its core, it is always in 4/4, following some sort of progression that stresses I, IV, and V chords, most commonly using Dominant 7 chords. 
+-What is the progression and type of music
+The progression is traditionally a 12-measure repeated progression that utilizes the I, IV, and V chords (Usually the dominant 7). It begins with the I chord for 4 measures, followed by the IV chord for 2, and the I chord for 2 more, then 2 counts on the V chord and back to the I chord for 2 measures. This is called the 12-bar blues. There are other forms of blues other than 12-bar, including the less popular 8-bar blues, 16-bar blues, and 10-bar blues.
+ -How is the music structured?
+The blues are traditionally built around the dominant 7, I, IV, and V chords in whatever key the artist is choosing to play. 
+- Is it coming from what traditions?
+The blues come from the end of the slave trade, around 1809. (The Roots and Impact of African American Blues Music, Emily Weiler. parg. 2) This came from the singing of several different songs from different parts of Africa. A lot of these songs came from things like the spiritual, working, and ceremonies, but eventually the blues turned into songs about love, loss and retained its themes of the spiritual as well as working.
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
+## Crazy BLUES
 
-
-## Duis vehicula erat et diam
 {% include figure.html class="right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
 
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
-
-
-## Praesent libero mi
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus. Aliquam in sapien mauris. Aliquam erat volutpat. 
-
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida. Sed hendrerit nisl in elit accumsan tincidunt. Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. Curabitur vitae commodo felis. Nulla facilisi. Suspendisse tincidunt elit finibus, porta felis vel, varius lacus.
+Crazy Blues goes from variates from 12 bar and 16-bar blues progressions. As Jim Morrison said, “I like singing blues… where there’s no specific beginning or end. It just gets into a groove and I can just keep making up things. And everybody’s soloing.” (Jim Morrison, 1969)
+“Crazy Blues” has some parts in 12-bar, and some parts in 16-bar while using syncopation
 
 
 
-## Curabitur sapien risus
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
+## Mamie Smith-The Woman Behind it All
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
+Mamie Smith, the woman who recorded “Crazy Blues,” is known to have sung a style of Blues with vaudeville elements. This incorporation of vaudeville style, may be because Mamie began show business at age ten, starring in a group called the “Four Dancing Minstrels.” Other than this, not much is known about Mamie’s early life. So why did she record this song? It’s said that she recorded this to appeal to black audiences, showing they were a viable market for pop music. Women specifically, were in popular music because of the rise of jazz and blues, providing a platform for them at this time. Music was one of the first fields to open up to women.
 
-> As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith.
+
+## Her Lasting Impact
+
+While some people think “Crazy Blues” is about a personal heartbreak, others argue that the song represents a broader experience of black women at this time. “Crazy Blues” is credited by some historians with catalyzing the proliferation of “race records” (records targeting an African-American audience). The rise of “race records” and technological advances in the 1920s spread blues music to audiences who wouldn’t have otherwise known it. Blues music had several influences, including work songs, minstrel show music, church music, as well as folk and popular music in white culture.
+
 
 
 ## Morbi posuere lacinia
