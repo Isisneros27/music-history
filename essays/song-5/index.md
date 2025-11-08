@@ -28,7 +28,7 @@ Most of the text is just dummy text to keep the focus on the page elements.
 {% include figure.html
 class="right" 
 width="48%" 
-caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source(https://en.wikipedia.org/wiki/Blue_Yodel_No._1_(T_for_Texas)#/media/File:Blue_Yodel_by_Jimmie_Rodgers.jpg)"  
+caption="Picture of Blue Yodel record. [Source(https://en.wikipedia.org/wiki/Blue_Yodel_No._1_(T_for_Texas)#/media/File:Blue_Yodel_by_Jimmie_Rodgers.jpg)"  
 image-path="essays/song-5/images/record-blue-yodel.jpeg.png" 
 %}
 
