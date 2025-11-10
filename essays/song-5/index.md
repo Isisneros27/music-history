@@ -89,9 +89,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 ## About the song
 The song Blue Yodel No. 1 is about a character named Thelma, the story is told through her past lover who is the narrator and the perspective behind the lyrics,
 
- 
-
-Over the course of the song it is established that it takes place in Atlanta, Georgia and the narrator wants to leave and go to a different state out west like Texas or up north to Tennessee as mentioned in the text the narrator is very angry at the two other characters in the song Thelma as previously stated is a past romantic interest of the narrator and the third character is the person who Thelma was currently in a romantic relationship with, from the lyrics we can infer that the narrator plans to purchase a long barreled firearm and murder the man that Thelma is dating and maim and or possibly murder Thelma herself, then escape off to and just from the lyrics it is unclear if Thelma is cheating or has just moved on to someone new so that could be a reason that the narrator's mother seems to be ready to renounce him along with the rest of Georgia. 
+ Over the course of the song it is established that it takes place in Atlanta, Georgia and the narrator wants to leave and go to a different state out west like Texas or up north to Tennessee as mentioned in the text the narrator is very angry at the two other characters in the song Thelma as previously stated is a past romantic interest of the narrator and the third character is the person who Thelma was currently in a romantic relationship with, from the lyrics we can infer that the narrator plans to purchase a long barreled firearm and murder the man that Thelma is dating and maim and or possibly murder Thelma herself, then escape off to and just from the lyrics it is unclear if Thelma is cheating or has just moved on to someone new so that could be a reason that the narrator's mother seems to be ready to renounce him along with the rest of Georgia. 
 
 The words in this song that during the time period would make sense are harder to understand today which decreases the punch of the double entendre that is used throughout the song
 
@@ -136,7 +134,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 ## History of the song
 {% include figure.html class="right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
 
-The song Blue Yodel No. 1 (T for Texas) was copyrighted on February 3rd of 1928 and is part of a multi-part saga known as the Blue Yodels and was recorded during the Bristol sessions which was considered the “Big bang” of country music,the producer of the song is Ralph Peer
+The song Blue Yodel No. 1 (T for Texas) was origialy created in november 30 1927 and then later published and copyrighted on February 3rd of 1928 and was produced by Ralph Peer is part of a multi-part saga known as the Blue Yodels and was recorded during the Bristol sessions which was considered the “Big bang” of country music
 
 ## Romance
 Is Thelma representing something real that happened to Jimmie Rodgers or is she more
@@ -186,6 +184,8 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 ## Bibliography
 
  Rodgers, Carrie (1935). My Husband, Jimmie Rodgers. Ernest Tubb Publications.
+
+ West!, Bluegrass. 2003. “Ralph Peer Remembers Jimmie Rodgers.” Peermusic - The Independent Major. 2003. https://web.archive.org/web/20080520132406/http://www.peermusic.com/news/press_detail.cfm?announcement_id=273&back=news. 
 
 Atkins, John. 2010. “Access to University Library Resources: The University of New Mexico.” Access to University Library Resources | The University of New Mexico. November 2010. https://research-ebsco-com.libproxy.unm.edu/c/kov46v/viewer/pdf/5onw5vvx6v. 
 
