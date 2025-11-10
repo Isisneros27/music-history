@@ -128,26 +128,8 @@ During the refrain sections of the song there is yodeling that is the reason the
 The song Blue Yodel No. 1 (T for Texas) was origialy created in november 30 1927 and then later published and copyrighted on February 3rd of 1928 and was produced by Ralph Peer is part of a multi-part saga known as the Blue Yodels and was recorded during the Bristol sessions which was considered the “Big bang” of country music but our song has a humble beginning with the first recording session starting in a warehouse the blue yodel was originally used to pad extra space as fluff for the album with other songs that were recorded when they were still blues songs and when the name was needed for the records it was come up with on the spot so it was simply “Blue Yodel” and once the song became popular following songs followed the naming convention and Blue Yodel became Blue Yodel No 1.
 
 
-## Romance
-Is Thelma representing something real that happened to Jimmie Rodgers or is she more
-of a metaphorical character?
-In the song T for Texas, though it is a relatively short song there is a lot to unpack about
-it. Being able to distinguish the real vs metaphorical meaning of aspects within the song also are
-key to analyzing this piece. Jimmie Rodgers often got regarded as the “Father of Country Music”
-because of Blue Yodels #1 which T for Texas appeared on. Now the song's narrative mainly
-covers the relationship between a vengeful husband and a cheating wife, with the husband
-seeking to get rid of the guy her wife cheated on him with. The husband in the narrative also
-brags about how “Cause I can get more women than a passenger train can haul.” (Wynne
-2014). Digging deeper we can see a meaning that is not easily accessible but as a catalyst of
-the genre Jimmie Rodgers also wanted to try something different to stand out by connecting
-country music to blues and doing so by incorporating aspects from both genres and mixing it
-into one (Wynne 2014). Thelma could be a way of lyricizing this in the song, by having her
-represent the creativity that lies within making music and the guy she cheated on her husband
-with the prejudice that lies between country music and blues’ inability to mix previously. For
-example in the fourth stanza it states “I'm gonna shoot that rounder that stole away my gal”
-(Rodgers 1927) this could be mentioning how racial prejudice towards genres of music may be
-harming the genre negatively. Jimmie Rodgers innovated the genre of country and blues by
-emphasizing meaning within his songs.
+## History Of Country Music
+Replace text
 
 
 
