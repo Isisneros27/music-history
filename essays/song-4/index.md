@@ -69,13 +69,13 @@ The blues come from the end of the slave trade, around 1809. (The Roots and Impa
 
 
 Crazy Blues goes from variates from 12 bar and 16-bar blues progressions. As Jim Morrison said, “I like singing blues… where there’s no specific beginning or end. It just gets into a groove and I can just keep making up things. And everybody’s soloing.” (Jim Morrison, 1969)
-“Crazy Blues” has some parts in 12-bar, and some parts in 16-bar while using syncopation
+“Crazy Blues” has some parts in 12-bar, and some parts in 16-bar, while using syncopation
 
 
 
 ## Mamie Smith-The Woman Behind it All
 
-Mamie Smith, the woman who recorded “Crazy Blues,” is known to have sung a style of Blues with vaudeville elements. This incorporation of vaudeville style, may be because Mamie began show business at age ten, starring in a group called the “Four Dancing Minstrels.” Other than this, not much is known about Mamie’s early life. So why did she record this song? It’s said that she recorded this to appeal to black audiences, showing they were a viable market for pop music. Women specifically, were in popular music because of the rise of jazz and blues, providing a platform for them at this time. Music was one of the first fields to open up to women.
+Mamie Smith, the woman who recorded “Crazy Blues,” is known to have sung a style of Blues with vaudeville elements. This incorporation of vaudeville style may be because Mamie began show business at age ten, starring in a group called the “Four Dancing Minstrels.” Other than this, not much is known about Mamie’s early life. So why did she record this song? It’s said that she recorded this to appeal to black audiences, showing they were a viable market for pop music. Women, specifically, were in popular music because of the rise of jazz and blues, providing a platform for them at this time. Music was one of the first fields to open up to women.
 
 
 ## Her Lasting Impact
