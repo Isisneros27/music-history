@@ -26,7 +26,7 @@ ushered in race records and allowed music companies to see that there was profit
 {% include figure.html
   class="right"
   width="48%"
-  image-path="Talking-Machine-Jan-1921.png"
+  image-path="images/Talking-Machine-Jan-1921.png"
 %}
 
 During the 1920s, many people were immigrating north, and a lot of jobs were opening up in the north due to the rapid industrial growth. The great northern migration. The South is still recovering after the Civil War, even now, and more and more people are moving north. Many industries are starting to boom, such as the meat factories in Chicago, steel plants in places like Detroit and Pittsburgh. As well, prohibition had just started and would last another 13 years. This was the result of a larger modesty movement that gained popularity across America in response to changing environments, like the massive number of immigrants coming to America. 
