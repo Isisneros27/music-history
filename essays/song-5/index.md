@@ -4,9 +4,9 @@ position: 5
 author: Student Name
 layout: base
 date: 2025-10-21
-thumbnail: images/essays/song-5/images/cowboy-jimmie.jpeg.jpg
+thumbnail: images/cowboy-jimmie.jpeg.jpg
 summary: Write the summary of your webpage here
-header-image: essays/song-5/images/record-blue-yodel.jpeg.jpg
+header-image: images/record-blue-yodel.jpeg.jpg
 header-title: 
 header-position: 0px
 geo: [37.88, -81.08]
