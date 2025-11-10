@@ -6,7 +6,7 @@ layout: base
 date: 2025-10-21
 thumbnail: images/essays/song-5/images/cowboy-jimmie.jpeg.jpg
 summary: Write the summary of your webpage here
-header-image: images/hot-notes-colors-5-blue.jpeg
+header-image: essays/song-5/images/record-blue-yodel.jpeg.jpg
 header-title: 
 header-position: 0px
 geo: [37.88, -81.08]
