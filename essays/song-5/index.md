@@ -178,6 +178,8 @@ emphasizing meaning within his songs.
 
  West!, Bluegrass. 2003. “Ralph Peer Remembers Jimmie Rodgers.” Peermusic - The Independent Major. 2003. https://web.archive.org/web/20080520132406/http://www.peermusic.com/news/press_detail.cfm?announcement_id=273&back=news. 
 
+ Wise, Timothy. 2010. “Access to University Library Resources: The University of New Mexico.” Access to University Library Resources | The University of New Mexico. 2010. https://research.ebsco.com/c/kov46v/viewer/pdf/glmvvioumn. 
+
 Atkins, John. 2010. “Access to University Library Resources: The University of New Mexico.” Access to University Library Resources | The University of New Mexico. November 2010. https://research-ebsco-com.libproxy.unm.edu/c/kov46v/viewer/pdf/5onw5vvx6v. 
 
 Atkins, John. 2010. “Access to University Library Resources: The University of New Mexico.” Access to University Library Resources | The University of New Mexico. November 2010. https://research-ebsco-com.libproxy.unm.edu/c/kov46v/viewer/pdf/5onw5vvx6v. 
