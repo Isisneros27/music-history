@@ -25,7 +25,7 @@ Mamie Smith’s “Crazy Blues” was a song that changed African-American music
 {% include figure.html
   class="right"
   width="48%"
-  Source: https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml"
+  caption="Source: https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml"
   image-path="Talking-Machine-Jan-1921.png"
 %}
 
