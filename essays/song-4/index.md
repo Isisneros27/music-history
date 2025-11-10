@@ -56,11 +56,6 @@ The blues come from the end of the slave trade, around 1809. (The Roots and Impa
 
 ## Crazy BLUES
 
-{% include figure.html
-  class="right"
-  width="60%"
-  image-path="images/sddefault.jpg"
-%}
 
 <p><iframe width="560" height="315"
   src="https://www.youtube.com/embed/qaz4Ziw_CfQ?si=PKMRIUZwTDpg32_A"
