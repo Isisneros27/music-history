@@ -39,8 +39,6 @@ Crazy Blues was one of the first songs ever recorded and put on radio stations, 
 ## Technology’s Role in the Popularity of “Crazy Blues”
 Crazy Blues was one of the first songs ever recorded and put on radio stations, and the first song by a black woman to be recorded. This song became insanely popular due to the rise of radio across America. There was a huge demand for this song to be played/bought by the American public, especially by the African American community. With the rise of radio and mass communication, songs could travel across the country; they weren’t limited to the places and people that made them. 
 
-{% include aside.html class="right" text="
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque." %}
 
 
 ### What Makes Blues? What are Blues?
