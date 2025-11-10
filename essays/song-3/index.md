@@ -29,17 +29,13 @@ caption="Single Picture of Louis Armstrong."
 image-path="images/louisarmstrong-singlepicture.jpg" 
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus. Praesent libero mi, pharetra vel neque sit amet, elementum tempor purus.[^1]
+In the late 1920s, jazz was the musical landscape starting in the cultural melting pot in New Orleans, Louisiana where people from different cultures and countries got together and created this genre. It was just the start of the growth of jazz music when ‘West End Blues” played a major role in the evolution of jazz music. Louis Armstrong changed jazz music by introducing a new level of technical skill and emotional depth to the trumpet, he was a unique talent during that time.
 
-[^1]: 'This is the footnote text. But I _really want_ italics.
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra. Sed id faucibus turpis. Etiam nec pellentesque lacus.
-
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
-
+Other songs from this time were known to be upbeat, dance-oriented, and focus on group play. “West End Blues” was different from most songs because it was slow, emotional, and focused on Armstrong’s individual brilliance on the trumpet and this is what got most people’s attention and became one of the most popular songs at the time. Armstrong was trying to use this song for personal expression and musical storytelling.
 
 ## Musical Trends and Background Story
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id feugiat tellus, at luctus elit. Fusce dapibus venenatis felis, sed tristique diam volutpat in. Donec odio elit, euismod non quam vel, posuere sagittis arcu. Vestibulum in augue et arcu porttitor dapibus a vitae velit. Mauris ultricies suscipit gravida. 
+This song followed many traditions, but it mainly followed Southern blues traditions. The 12-bar blues form was very popular in early jazz; this was the trend that Joe “King” Oliver and Armstrong were following which was one of the most prominent chord progressions in popular music. A tradition that they did not follow was the upbeat and danceable rhythm, as mentioned earlier this song was slow tempo and emotional trying to tell a story.
+ 
 
 
 # Creation of “West End Blues"
@@ -119,18 +115,17 @@ The Great Migration brought many Black southerners to northern cities like Chica
 
 - [Jazz, Blues, and Ragtime in America, 1900–1945.](https://oxfordre.com/americanhistory/display/10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-342) 2022. In Oxford Research Encyclopedia of American History. Oxford University Press. 
 
-- Johns Hopkins Sheridan Libraries. 1928. West End Blues Sheet Music. New York: Clarence Williams Music Publishing Co. https://www.library.jhu.edu/give/sponsor-a-book/west-end-blues/
+- Johns Hopkins Sheridan Libraries. [1928. West End Blues Sheet Music](https://www.library.jhu.edu/give/sponsor-a-book/west-end-blues/). New York: Clarence Williams Music Publishing Co. 
   
-- NPR. “Louis Armstrong’s ‘West End Blues,’ The Day Jazz Changed Forever.” NPR Music, accessed October 28, 2025. https://www.npr.org.
+- NPR. [“Louis Armstrong’s ‘West End Blues,’ The Day Jazz Changed Forever.”](https://www.npr.org.) NPR Music, accessed October 28, 2025. 
 
-- NPR. “‘West End Blues’.” NPR Music, accessed October 28, 2025. https://www.npr.org.
+- NPR. [“‘West End Blues’.”](https://www.npr.org.) NPR Music, accessed October 28, 2025. 
 
-- Riccardi, Ricky. “Ricky Riccardi on the Making of ‘West End Blues’.” JazzTimes, accessed October 28, 2025. https://jazztimes.com.
-
+- Riccardi, Ricky. [“Ricky Riccardi on the Making of ‘West End Blues’.”]( https://jazztimes.com.) JazzTimes, accessed October 28, 2025.
+  
 - Schuller, Gunther. Early Jazz: Its Roots and Musical Development. Oxford: Oxford University Press, 1968.
 
-- The Pop History Dig. “West End Blues (1928).” The Pop History Dig, accessed October 28, 2025. https://www.pophistorydig.com.
-
+- The Pop History Dig. [“West End Blues (1928).”]( https://www.pophistorydig.com.) The Pop History Dig, accessed October 28, 2025.
 
 
 
