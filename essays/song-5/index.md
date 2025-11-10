@@ -18,9 +18,6 @@ tags:
 ---
 
 # Blue Yodel No. 1 (T for Texas)
-This template shows a basic essay with a few images, captions, and section headings. The design difficulty of this template is 'Seedling' level.
-
-Most of the text is just dummy text to keep the focus on the page elements.
 
 <iframe width="949" height="707" src="https://www.youtube.com/embed/qEIBmGZxAhg" title="Jimmie Rodgers - Blue Yodel No 1 (T For Texas)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -102,6 +99,11 @@ The words in this song that during the time period would make sense are harder t
 “Rather drink muddy water sleep in a holler log” shows he does not have a plan to get to a different state and is currently in a fit of rage and is unlikely to have any survival skills whatsoever.
 
 
+
+
+
+
+
 ## Jimmie Rodgers
 {% include figure.html class="middle" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/jimmie-rodgers-in-1921.jpg" %}
 
@@ -169,8 +171,7 @@ emphasizing meaning within his songs.
 
     
    Still, Rodgers has been a called a national phenomenon and considered still, one of the founder fathers, if not,                                                                                                 THE father of country music. 
-## Morbi posuere lacinia
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Maecenas eu auctor sapien. Sed gravida vel ipsum in porta. Nam vitae cursus elit. Morbi posuere lacinia sem a molestie. Etiam sagittis augue ut imperdiet aliquet. Donec urna lorem, pharetra in augue nec, tristique luctus enim.
+
 
 
 ## Bibliography
