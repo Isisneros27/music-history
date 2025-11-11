@@ -81,8 +81,7 @@ Crazy Blues goes from variates from 12 bar and 16-bar blues progressions. As Jim
 
 ## Mamie Smith-The Woman Behind it All
 
-Mamie Smith, the woman who recorded “Crazy Blues,” is known to have sung a style of Blues with vaudeville elements. This incorporation of vaudeville style may be because Mamie began show business at age ten, starring in a group called the “Four Dancing Minstrels.” Other than this, not much is known about Mamie’s early life. So why did she record this song? It’s said that she recorded this to appeal to black audiences, showing they were a viable market for pop music. Women, specifically, were in popular music because of the rise of jazz and blues, providing a platform for them at this time. Music was one of the first fields to open up to women.
-
+Mamie Smith, the woman who recorded “Crazy Blues,” is known to have sung a style of Blues with vaudeville elements. This incorporation of vaudeville style may be because Mamie began show business at age ten, starring in a group called the “Four Dancing Minstrels.” Other than this, not much is known about Mamie’s early life. So why did she record this song? It’s said that she recorded this to appeal to black audiences, showing they were a viable market for pop music. Women, in particular, were featured in popular music due to the rise of jazz and blues, which provided a platform for them at this time. Unfortunately, another reason black women were popular in this business is that they were seen as “easier to control” as opposed to men. As a result, music was one of the first fields to open up to women.
 
 ## Her Lasting Impact
 
