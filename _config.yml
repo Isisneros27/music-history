@@ -1,5 +1,4 @@
 baseurl: /music-history/
-repository: iri-val/music-history
 defaults:
   - scope:
       path: ""
