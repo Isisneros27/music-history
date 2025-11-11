@@ -81,7 +81,7 @@ Oh-del-lay-ee eh, lay-ee oh, lay-ee
 
 
 ## About the song
-The song Blue Yodel No. 1 is about a character named Thelma, the story is told through her past lover who is the narrator and the perspective behind the lyrics,
+The song Blue Yodel No. 1 is about a character named Thelma, the story is told through her past lover who is the narrator and the perspective behind the lyrics (Atkins, John. 2010.)
 
   Over the course of the song it is established that it takes place in Atlanta, Georgia and the narrator wants to leave and go to a different state out west like Texas or up north to Tennessee as mentioned in the text the narrator is very angry at the two other characters in the song Thelma as previously stated is a past romantic interest of the narrator and the third character is the person who Thelma was currently in a romantic relationship with, from the lyrics we can infer that the narrator plans to purchase a long barreled firearm and murder the man that Thelma is dating and maim and or possibly murder Thelma herself, then escape off to and just from the lyrics it is unclear if Thelma is cheating or has just moved on to someone new so that could be a reason that the narrator's mother seems to be ready to renounce him along with the rest of Georgia. 
 
@@ -93,7 +93,7 @@ The words in this song that during the time period would make sense are harder t
 
 “I'm gonna buy me a pistol just as long as I'm tall” is a way to express his bravado and is an over exaggeration to show that the narrator is not thinking clearly which is supported by deciding to escape to two different states in different directions.
 
-“Rather drink muddy water sleep in a holler log” shows he does not have a plan to get to a different state and is currently in a fit of rage and is unlikely to have any survival skills whatsoever.
+“Rather drink muddy water sleep in a holler log” shows he does not have a plan to get to a different state and is currently in a fit of rage and is unlikely to have any survival skills whatsoever. 
 
 
 
@@ -142,7 +142,7 @@ the genre.
 
 
 ## History of the song
-The song Blue Yodel No. 1 (T for Texas) was origialy created in november 30 1927 and then later published and copyrighted on February 3rd of 1928 and was produced by Ralph Peer is part of a multi-part saga known as the Blue Yodels and was recorded during the Bristol sessions which was considered the “Big bang” of country music but our song has a humble beginning with the first recording session starting in a warehouse the blue yodel was originally used to pad extra space as fluff for the album with other songs that were recorded when they were still blues songs and when the name was needed for the records it was come up with on the spot so it was simply “Blue Yodel” and once the song became popular following songs followed the naming convention and Blue Yodel became Blue Yodel No 1.
+The song Blue Yodel No. 1 (T for Texas) was origialy created in november 30 1927 and then later published and copyrighted on February 3rd of 1928 and was produced by Ralph Peer is part of a multi-part saga known as the Blue Yodels and was recorded during the Bristol sessions which was considered the “Big bang” of country music but our song has a humble beginning with the first recording session starting in a warehouse the blue yodel was originally used to pad extra space as fluff for the album with other songs that were recorded when they were still blues songs and when the name was needed for the records it was come up with on the spot so it was simply “Blue Yodel” and once the song became popular following songs followed the naming convention and Blue Yodel became Blue Yodel No 1. (West!, Bluegrass. 2003.)
 
 
 ## History Of Country Music
